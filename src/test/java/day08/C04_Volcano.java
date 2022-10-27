@@ -32,5 +32,6 @@ public class C04_Volcano extends TestBase_Before_After {
 
         // - youtube video sunun frame'inin içindeki "play" logosunu tıklayarak videoyu oynatalım.
         play.click();
+
     }
 }
